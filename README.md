@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/ry2002/ry2002/assets/139203903/940a8b54-bb71-43fc-9584-b40b96315d97)
+![logo](![image](https://github.com/ry2002/ry2002/blob/main/git.gif)
 )
 
 <h1 align="center">Hi 👋, I'm Raja Yadav</h1>
