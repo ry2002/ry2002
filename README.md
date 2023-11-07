@@ -1,4 +1,5 @@
-![logo](https://github.com/ry2002/ry2002/blob/main/code2.jpg)
+![logo](![image](https://github.com/ry2002/ry2002/assets/139203903/940a8b54-bb71-43fc-9584-b40b96315d97)
+)
 
 <h1 align="center">Hi 👋, I'm Raja Yadav</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
